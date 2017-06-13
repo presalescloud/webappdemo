@@ -55,6 +55,8 @@ footer {background: #aaa;color:white;}
   <li><a href="https://azureplatform.azurewebsites.net/en-us/">Azure Platform</a></li>
   <li><a href="https://azure.microsoft.com/en-us/">Azure Documentation</a></li>
   <li><a href="https://login.microsoftonline.com">Office 365</a></li>
+  <li><a href="https://github.com/">CI/CD with GitHub</a></li>
+  <li><a href="https://www.visualstudio.com/en-us/docs/overview">VSTS</a></li>
 </ul>
 </nav>
 
