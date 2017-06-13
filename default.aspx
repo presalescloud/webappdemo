@@ -50,8 +50,9 @@ footer {background: #aaa;color:white;}
 
 <nav class="nav">
 <ul>
-  <li><a href="https://manage.windowsazure.com">Azure Manage</a></li>
-  <li><a href="https://portal.azure.com">Azure Portal</a></li>
+  <li><a href="https://manage.windowsazure.com">Old Azure Portal</a></li>
+  <li><a href="https://portal.azure.com">New Azure Portal</a></li>
+  <li><a href="https://azureplatform.azurewebsites.net/en-us/">Azure Platform</a></li>
   <li><a href="https://azure.microsoft.com/en-us/">Azure Documentation</a></li>
   <li><a href="https://login.microsoftonline.com">Office 365</a></li>
 </ul>
@@ -101,15 +102,15 @@ footer {background: #aaa;color:white;}
  </p>
  
  <p>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/W9wuNllpcWE" frameborder="0" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/user/windowsazure" frameborder="0" allowfullscreen></iframe>
  </P>
  
  <p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C71HgJ7B6Og" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/user/AmazonWebServices" frameborder="0" allowfullscreen></iframe>
  </p>
  
  <p>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/pL9b2V7oxJs" frameborder="0" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/user/vmwaretv" frameborder="0" allowfullscreen></iframe>
  </p>
  
  <p>
